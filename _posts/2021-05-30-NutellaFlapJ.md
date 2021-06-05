@@ -3,7 +3,7 @@ layout: post
 title: Nutella Flapjack
 date: 2021-05-30 14:15:20 +0000
 description: Chewy soft chocolate hazelnut flapjacks recipe. # Add post description (optional)
-img: post-1-nutellaflapjack.jpg # Add image post (optional)
+img: post-2-nutellaflapjack.jpg # Add image post (optional)
 tags: [flapjack, chocolate, bakes, nuts]
 author: Victoria # Add name author (optional)
 ---
