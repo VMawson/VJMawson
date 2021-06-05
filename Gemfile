@@ -10,4 +10,6 @@ end
 
 gem "webrick", "~> 1.7"
 
+gem 'wdm', '>= 0.1.0'
+
 gem "github-pages", "~> 211", group: :jekyll_plugins

@@ -7,8 +7,9 @@ img: post-2-nutellaflapjack.jpg # Add image post (optional)
 tags: [flapjack, chocolate, bakes, nuts]
 author: Victoria # Add name author (optional)
 ---
-Ingredients:
 
+Ingredients:
+---
 75g hazelnuts
 
 50g caster sugar
@@ -24,6 +25,7 @@ Ingredients:
 320g oats
 
 Method:
+---
 
 1. Preheat the oven to 180 C/ 160 C fan. Line a 20cm x 20cm tray with parchment. 
 

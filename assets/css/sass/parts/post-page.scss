@@ -20,6 +20,16 @@
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
+  h1{
+    font-weight: 300;
+    font-size: 28px;
+    text-transform: uppercase;
+  }
+  h2{
+    font-weight: 200;
+    font-size: 15px;
+    text-transform: uppercase;
+  }
 }
 
 .header-page {
@@ -33,10 +43,23 @@
     margin: 0 0 20px;
     color: $dark-purple;
   }
+  h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    text-align: center;
+    margin: 0 0 20px;
+    color: $dark-purple;
+  }
   .page-date {
     text-align: center;
     font-size: 14px;
     text-transform: uppercase;
+    font-weight: 300;
+  }
+  .page-description{
+    text-align: center;
+    font-size: 14px;
     font-weight: 300;
   }
 }

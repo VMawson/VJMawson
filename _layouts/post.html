@@ -11,9 +11,16 @@ layout: default
       <div class="page-content">
         <div class="header-page">
           <h1 class="page-title">{{page.title}}</h1>
+          <div class= "page-description">
+            <i>{{page.description}}</i>
+          </div>
           <div class="page-date"><time datetime="{{page.date}}">{{page.date | date: '%Y, %b %d'}}</time></div>
         </div>
+
+        <h1 class="page.ingredients">{{page.ingredients}}</h1>
         {{page.content | markdownify}}
+        <h1 class="page.method">{{page.method}}</h1>
+
         <div class="page-footer">
           <div class="page-tag">
             <span>Tags:</span>

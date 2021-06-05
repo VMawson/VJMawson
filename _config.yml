@@ -8,7 +8,7 @@ url: "https://vmawson.github.io" # the base hostname & protocol for your site, e
 
 # Author settings
 author: Victoria Mawson # add your name
-#author-pic: victoriamawsonpic.jpeg
+author-pic: /assets/img/victoriamawsonpic.jpeg
 #about-author: 
 
 # Contact links
